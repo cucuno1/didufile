@@ -10,7 +10,7 @@
  * http://nimah79.ir.
  */
 define('FILES_PATH', __DIR__.'/files');
-define('WEBSERVER_BASE_URL', 'https://didufile.herokuapp.com');
+define('WEBSERVER_BASE_URL', 'https://didustorage.herokuapp.com');
 define('FILES_EXPIRE_TIME', 144 * 3600); // in seconds
 
 set_time_limit(0);
